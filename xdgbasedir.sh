@@ -17,3 +17,6 @@ export JULIA_DEPOT_PATH="${XDG_DATA_HOME:-$HOME/.local/share}/julia:$JULIA_DEPOT
 
 # GPG
 export GNUPGHOME="${XDG_DATA_HOME:-$HOME/.local/share}/gnupg"
+
+# Haskell (GHCUp)
+export GHCUP_USE_XDG_DIRS=true
