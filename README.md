@@ -15,7 +15,7 @@ Some software doesn't separate its configuration, cache and data. In that case, 
 (Un-)installing this should be *safe*, i. e. no existing system-wide configuration (e. g. `/etc/zshenv`) should be overwritten by installing.
 
 # Contributing
-I'll gladly accept merge requests that don't majorly break anything and respects what I've written above.
+I'll gladly accept merge requests that don't majorly break anything and respect what I've written above.
 
 # See also
 - [Arch Linux Wiki: XDG Base Directory](https://wiki.archlinux.org/title/XDG_Base_Directory)
