@@ -18,5 +18,6 @@ Some software doesn't separate its configuration, cache and data. In that case, 
 I'll gladly accept merge requests that don't majorly break anything and respect what I've written above.
 
 # See also
+- [XDG Base Directory Specification](https://specifications.freedesktop.org/basedir-spec/basedir-spec-latest.html)
 - [Arch Linux Wiki: XDG Base Directory](https://wiki.archlinux.org/title/XDG_Base_Directory)
 - [xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja)
