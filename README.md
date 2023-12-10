@@ -4,7 +4,7 @@ To get started
 ```
 # just install
 ```
-and *fix issues caused by hardcoded directories elsewhere. Also remember to move files to their new locations if you want to keep your current configuration.*
+and **fix issues caused by hardcoded directories elsewhere.** Also remember to move files to their new locations if you want to keep your current configuration.
 
 This config attempts to fully implement XDG Base Directory, which means that it doesn't assume that environment variables like `$XDG_DATA_HOME` are set.
 
