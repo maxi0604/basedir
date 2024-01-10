@@ -2,7 +2,7 @@
 A collection of configuration files, initialization scripts etc. that configures software to use the correct directories on XDG systems.
 To get started
 ```
-$ sudo just install
+# just install
 $ just user-install
 ```
 and **fix issues caused by hardcoded directories elsewhere.** Also remember to move files to their new locations if you want to keep your current configuration.
