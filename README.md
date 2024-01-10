@@ -3,7 +3,6 @@ A collection of configuration files, initialization scripts etc. that configures
 To get started
 ```
 $ sudo just install
-# Requires systemd, see environment.d(5)
 $ just user-install
 ```
 and **fix issues caused by hardcoded directories elsewhere.** Also remember to move files to their new locations if you want to keep your current configuration.
