@@ -21,3 +21,6 @@ export GNUPGHOME="${XDG_DATA_HOME:-$HOME/.local/share}/gnupg"
 # Haskell (GHCUp, Stack)
 export GHCUP_USE_XDG_DIRS=true
 export STACK_XDG=1
+
+# SQLite commandline
+export SQLITE_HISTORY="${XDG_DATA_HOME:-$HOME/.local/share}/sqlite_history"
